@@ -1,0 +1,6 @@
+tft-text-case-change.label=Change Case
+tft-text-case-change.tooltip=Change the case of the currently selected text
+tft-text-case-change.lower=Lower Case
+tft-text-case-change.upper=Upper Case
+tft-text-case-change.title=Title Case
+tft-text-case-change.invert=Invert Case

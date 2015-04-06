@@ -1,0 +1,17 @@
+{
+    "translate_description": true,
+    "name": "Text Formatting Toolbar",
+    "default_locale": "en-US",
+    "creator": "Michael Buckley",
+    "description": "Toolbar for formatting text in BBcode, HTML or Wiki code",
+    "pref_root": "extension.tbutton.format.",
+    "buttons": "all",
+    "restartless": true,
+    "applications": ["browser", "suite"],
+    "version": "1.0",
+    "extension_id": "format.bar@codefisher.org",
+    "homepage": "https://codefisher.org/format_toolbar/",
+    "projects": ["buttons"],
+    "chrome_name": "text_formatting_toolbar",
+    "new_button_prefix": "tft-"
+}

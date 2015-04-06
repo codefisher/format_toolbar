@@ -52,3 +52,11 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#My own stuff
+
+.project
+.pydevproject
+.idea
+local.json
+extensions/
